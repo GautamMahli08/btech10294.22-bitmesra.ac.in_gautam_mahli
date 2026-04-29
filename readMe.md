@@ -34,7 +34,7 @@ A Retrieval-Augmented Generation (RAG) medical assistant that provides trusted, 
 
 ## 🏗 Architecture
 
-![Uploading Arch.png…]()
+<img src="Arch.png" width="800"/>
 
 
 ---
