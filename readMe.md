@@ -34,15 +34,8 @@ A Retrieval-Augmented Generation (RAG) medical assistant that provides trusted, 
 
 ## 🏗 Architecture
 
-Frontend (React)  
-⬇  
-FastAPI Backend  
-⬇  
-Sentence Transformers  
-⬇  
-Qdrant Vector DB  
-⬇  
-Ollama LLM
+![Uploading Arch.png…]()
+
 
 ---
 
