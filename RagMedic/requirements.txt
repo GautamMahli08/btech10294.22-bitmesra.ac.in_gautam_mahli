@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+openai
+qdrant-client
+pydantic
+pydantic-settings
+python-multipart
+pypdf
+requests
+beautifulsoup4
+lxml
+sqlalchemy
+passlib[bcrypt]
+python-jose
